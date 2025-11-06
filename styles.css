@@ -229,8 +229,9 @@ body {
     width: 100%;
     max-width: 300px;
     height: auto;
-    border-radius: 12px;
-    box-shadow: var(--shadow-lg);
+    border-radius: 16px;
+    box-shadow: 0 10px 25px rgba(141, 141, 141, 0.1);
+    border: 1px solid gray;
     object-fit: contain;
     animation: fadeInUp 0.8s ease-out;
 }
